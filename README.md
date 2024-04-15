@@ -28,8 +28,8 @@
 #### 📁 Тестовая документация:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+  <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+  <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/youtrack/youtrack.svg" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/confluence/confluence-icon.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
 </div>
 
@@ -41,7 +41,7 @@
   <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="48" height="50"/>&nbsp
   <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/seleniem/selenium.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
   <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/pydentic/pydentic.svg" title="pydentic" alt="pydentic" width="190" height="40"/>&nbsp
 </div>
