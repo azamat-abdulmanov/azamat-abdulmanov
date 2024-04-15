@@ -1,9 +1,9 @@
 
-# Привет, меня зовут Азамат!
+## Привет, меня зовут Азамат!
 
 ---
 
-### :man_technologist: Обо мне:
+#### :man_technologist: Обо мне:
 
 Я начинающий Автотестировщик / Automation QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
@@ -15,7 +15,7 @@
 
 ---
 
-### 🤝 Социальные сети:
+#### 🤝 Социальные сети:
 
   <div id="badges">
     <a href="https://t.me/azamat_abdulmanov" target="_blank">
@@ -25,7 +25,7 @@
 
 ---
 
-### 📁 Тестовая документация:
+#### 📁 Тестовая документация:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+#### 🛠 Тестирование веб-приложений:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -44,7 +44,7 @@
 
 ---
 
-### Frontend
+#### Frontend
 <div>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -53,7 +53,7 @@
 
 ---
 
-### 💾 Работа с данными:
+#### 💾 Работа с данными:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="60" height="60"/>&nbsp
@@ -64,7 +64,7 @@
 
 ---
 
-### ✏️ Работа с кодом:
+#### ✏️ Работа с кодом:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -91,7 +91,7 @@
 
 --- -->
 
-### 💻 Codewars:
+#### 💻 Codewars:
 
 <div align="center">
 
