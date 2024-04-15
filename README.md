@@ -30,6 +30,7 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+  <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/confluence/confluence-icon.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
 </div>
 
 ---
