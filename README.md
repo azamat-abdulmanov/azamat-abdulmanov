@@ -65,17 +65,23 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
 </div>
 
-
 ---
 
 #### ✏️ Работа с кодом:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  
+  <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/ide/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp 
+</div>
+
+---
+
+#### Cистема управления версиями
+
+<div>
+  <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/githab/git.svg" title="git" alt="git" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -86,6 +92,8 @@
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
  <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/oc/windows.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp
 </div>
+
+---
 
 <!--🎓 ####  Пройденные курсы:
 
