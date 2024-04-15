@@ -29,7 +29,7 @@
 
 <div>
   <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/youtrack/youtrack.svg" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+  <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/youtrack/youtrack-icon.svg" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/confluence/confluence-icon.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
 </div>
 
