@@ -50,8 +50,8 @@
 
 #### Frontend
 <div>  
- <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/css/css3.svg" title="css" alt="css" width="30" height="30"/>&nbsp  
- <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/html/html-icon.svg" title="html" alt="html" width="40" height="40"/>&nbsp 
+ <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/css/css3.svg" title="css" alt="css" width="38" height="38"/>&nbsp  
+ <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/html/html-icon.svg" title="html" alt="html" width="41" height="41"/>&nbsp 
 </div>
 
 ---
