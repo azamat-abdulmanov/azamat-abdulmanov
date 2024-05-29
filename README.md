@@ -1,34 +1,34 @@
 
-## Привет, меня зовут Азамат!
+## Hi, I'm Azamat!
 
 ---
 
-#### :man_technologist: Обо мне:
+#### :man_technologist: About me:
 
-Я начинающий Автотестировщик / Automation QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+I'm a beginner an automation QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/azamat_abdulmanov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:azamat.abdulmanov.92@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/azamat_abdulmanov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:azamat.abdulmanov.92@gmail.com)
 
 ---
 
-#### 🤝 Социальные сети:
+#### 🤝 Social media:
 
  <div id="badges">
    <a href="https://t.me/azamat_abdulmanov" target="_blank">
-     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt="telegram" />
    </a>
    <a href="https://www.linkedin.com/in/azamat-abdulmanov-339439222/" target="_blank">
-    <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/linkedin/linkedin-original.svg" width="40" heigth="40" alt="linkedin"
+    <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/linkedin/linkedin-original.svg" width="30" heigth="30" alt="linkedin"
    </a>
   </div>
 
 ---
 
-#### 📁 Тестовая документация:
+#### 📁 Test documentation:
 
 <div>
   <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -38,7 +38,7 @@
 
 ---
 
-#### 🛠 Тестирование веб-приложений:
+#### 🛠 Web Application Testing:
 
 <div>
   <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="48" height="50"/>&nbsp
@@ -54,32 +54,32 @@
 #### Frontend
 <div>  
  <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/css/css3.svg" title="css" alt="css" width="38" height="38"/>&nbsp  
- <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/html/html-icon.svg" title="html" alt="html" width="41" height="41"/>&nbsp 
+ <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/html/html-icon.svg" title="html" alt="html" width="42" height="45"/>&nbsp 
 </div>
 
 ---
 
-#### 💾 Работа с данными:
+#### 💾 Working with data:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="60" height="60"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="55" height="55"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
 </div>
 
 ---
 
-#### ✏️ Работа с кодом:
+#### ✏️ Working with code:
 
 <div>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a> 
   <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/ide/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp 
 </div>
 
 ---
 
-#### 📚 Cистема управления версиями
+#### 📚 Version control system:
 
 <div>
   <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/githab/git.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -88,10 +88,10 @@
 
 ---
 
-#### 💻 OC
+#### 💻 Os:
 
 <div>
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>
  <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/oc/windows.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp
  <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/cmd/Bash_Logo.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
  <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/cmd/powershell-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
