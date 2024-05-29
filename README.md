@@ -17,10 +17,13 @@
 
 #### 🤝 Социальные сети:
 
-  <div id="badges">
-    <a href="https://t.me/azamat_abdulmanov" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
+ <div id="badges">
+   <a href="https://t.me/azamat_abdulmanov" target="_blank">
+     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+   </a>
+   <a href="https://www.linkedin.com/in/azamat-abdulmanov-339439222/" target="_blank">
+    <img src="https://github.com/azamat-abdulmanov/azamat-abdulmanov/blob/main/icons/linkedin/linkedin-original.svg" width="40" heigth="40" alt="linkedin"
+   </a>
   </div>
 
 ---
